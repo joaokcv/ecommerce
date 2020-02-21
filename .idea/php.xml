@@ -6,6 +6,7 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/rain/raintpl" />
       <path value="$PROJECT_DIR$/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/vendor/hcodebr/php-classes" />
     </include_path>
   </component>
 </project>
